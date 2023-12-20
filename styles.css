@@ -70,15 +70,6 @@ footer {
 }
 
 img {
-  .inline li {
-    display: inline;
-    margin: 0 10px;
-}
-
-.inline {
-    background-color: #ff6600;
-    color: #fff;
-}
     width: 200px;
     height: 200px;
 }
@@ -88,4 +79,12 @@ img {
     color: #fff;
 }
 
-.inline li
+.inline li {
+    display: inline;
+    margin: 0 10px;
+}
+
+.inline {
+    background-color: #ff6600;
+    color: #fff;
+}
